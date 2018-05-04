@@ -12,4 +12,4 @@ excerpt: "About Me..."
 - Human Development
 - Clinical Decision Support
 - [GitHub Pages](http://ericfeczko.github.io)
-- [Baseball](http://sonsofsamhorn.net)
+- [Baseball](http://sonsofsamhorn.com)
